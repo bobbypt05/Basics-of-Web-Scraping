@@ -22,3 +22,4 @@
 - After importing, make request to the site want to scrap and store it in the object.Just copy the URL of the webpage and type following command on the IDLE. Replace the single quote with the site you want to scrap.
 
 ![request](images/image-2.png)
+Here res is the object where all the information of the webpage is getting stored.
