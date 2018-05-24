@@ -49,3 +49,8 @@ Here res is the object where all the information of the webpage is getting store
 
 ![loop](images/image-8.png)
 
+- If you want to find all the link in the webpage, run the following command on IDLE
+
+![a_tages](images/image-8.png)
+
+For more refer the documentation provided above.
