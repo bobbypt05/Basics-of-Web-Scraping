@@ -23,3 +23,29 @@
 
 ![request](images/image-2.png)
 Here res is the object where all the information of the webpage is getting stored.
+
+- You can check the type of res as shown below.
+
+![Type](images/image-3.png)
+
+- To see what is stored inside the object res type the following command.
+
+![text](images/image-4.png)
+
+- To move further or to do the further operation there is an awesome documentation from [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). You first need to conver the requests type object into bs4 object after that you can do numerous thing on that object listed in the documentaion.
+- To convert the object into bs4 object write the following command where res in the object we have already created.
+
+![conversion](images/image-5.png)
+
+- For the confirmation you can check the type of object,it's converted into Beautiful Soup object.
+
+![checkingObject](images/image-6.png)
+
+- To view the the the data related to perticular tag let us suppose class yu can type (.class_name). Similarly for id type (#id_name). Just replace the single quote in the following command with the class or id or anything else you want to have.
+
+![scrap](images/image-7.png)
+
+- To extract the text part from the tag, You can have a loop as shown below.
+
+![loop](images/image-8.png)
+
