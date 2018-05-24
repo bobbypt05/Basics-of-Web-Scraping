@@ -6,11 +6,11 @@
 - To check type **python --version** in command prompt and it will show the version as shown in the image below.
 ![Version](images/versioncheck.png)
 - If not install Python version 3.X from [here](https://www.python.org/downloads/).
-- After Installing  Python, Install requests, bs4(Beautiful Soup) and lxml.hit <Enter> once
-    Commands for installation:
-    **pip install requests**
-    **pip install bs4**
-    **pip install lxml**
+- After Installing  Python, Install requests, bs4(Beautiful Soup) and lxml.<br/>
+    Commands for installation:<br/>
+    **pip install requests**<br/>
+    **pip install bs4**<br/>
+    **pip install lxml**<br/>
 
 ## Steps to do request to page and importing data
 - Open python IDLE.
