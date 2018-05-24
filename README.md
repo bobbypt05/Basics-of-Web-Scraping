@@ -1,6 +1,6 @@
 # Basics-of-Web-Scraping
 
-## Steps for the installation in Windows:
+## Steps for the installation for Windows:
 - Open Command Prompt.
 - Check whather the python 3 is installed or not.
 - To check type **python --version** in command prompt and it will show the version as shown in the image below.
